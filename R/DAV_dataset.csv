@@ -1,0 +1,12 @@
+# DAV_Practical/dataset.csv
+ID,Age,Salary,Department
+1,25,50000,IT
+2,30,60000,HR
+3,NA,55000,IT
+4,28,52000,Finance
+5,35,70000,HR
+6,40,80000,IT
+7,32,65000,Finance
+8,29,58000,IT
+9,45,90000,HR
+10,26,NA,Finance
